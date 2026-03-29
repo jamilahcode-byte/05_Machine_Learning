@@ -1,0 +1,6 @@
+visits,purchases,ads_clicked,region_East,region_North,region_South,region_West,prediction,probability
+7,4,1,False,True,False,False,1,1.0
+8,5,1,False,False,False,True,1,1.0
+1,0,0,False,True,False,False,0,0.08
+3,1,0,False,False,True,False,1,0.84
+4,1,0,False,True,False,False,1,0.89

@@ -1,0 +1,9 @@
+past_purchase,visits,age,region_East,region_North,region_South,region_West,predicted_lead
+450,4,37,False,True,False,False,2
+230,2,30,True,False,False,False,0
+100,1,25,False,True,False,False,0
+440,4,39,False,False,False,True,2
+220,2,31,False,True,False,False,0
+550,5,42,True,False,False,False,2
+420,4,36,True,False,False,False,2
+200,2,30,False,False,True,False,0

@@ -1,0 +1,9 @@
+Feature Importance Report
+
+visits: 0.469
+purchases: 0.41
+ads_clicked: 0.063
+region_East: 0.016
+region_North: 0.006
+region_South: 0.015
+region_West: 0.021
